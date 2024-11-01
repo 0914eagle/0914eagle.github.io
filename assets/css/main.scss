@@ -36,5 +36,17 @@ $on-laptop: 800px;
   }
 }
 
+.highlight-box {
+  background-color: #f8f9fa; /* 하이라이트 배경 색 */
+  padding: 15px;
+  border-left: 5px solid #00b894; /* 왼쪽 테두리 색 */
+  border-radius: 5px;
+  font-family: $base-font-family;
+  font-size: $base-font-size;
+  line-height: $base-line-height;
+  margin-bottom: $spacing-unit / 2;
+}
+
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "base", "layout", "site", "work", "blog", "post", "404";

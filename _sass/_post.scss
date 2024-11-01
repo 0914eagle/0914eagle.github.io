@@ -101,3 +101,8 @@ div.footnotes {
     color: #330000;
   }
 }
+
+h2.title {
+  border-bottom: 1px solid #cccccc; /* 선 추가 */
+  padding-bottom: 5px; /* 선과 텍스트 사이 간격 조정 */
+}

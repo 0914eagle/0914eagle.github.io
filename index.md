@@ -8,7 +8,7 @@ profile_picture:
 <p style="text-align: center; font-weight: bold; font-size: 28px;">Heejae Chon</p>
 
 <p>
- I am an undergraduate student studying computer science at Yonsei University. Currently, I am advised by Prof. Dongha Lee and focusing on Natural Language Process (NLP) research projects. 
+ I am an undergraduate student studying computer science at Yonsei University. Currently, I am advised by Prof. Dongha Lee and focusing on Natural Language Processing (NLP) research projects. 
 </p>
 
 <p>
